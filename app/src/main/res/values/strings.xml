@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NavigationTest</string>
+
+    <string name="nav_home">Home</string>
+    <string name="navr_attendance">Attendance</string>
+    <string name="nav_holiday">Holiday</string>
+
+    <string name="drawer_open">open_drawer</string>
+    <string name="drawer_close">close_drawer</string>
+
+
+    <string name="home">Home</string>
+    <string name="attendance">Attendance</string>
+    <string name="holiday">Holiday</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_home</item>
+        <item>@string/navr_attendance</item>
+        <item>@string/nav_holiday</item>
+
+    </string-array>
+
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/home</item>
+        <item>@drawable/attdeance</item>
+        <item>@drawable/holiday</item>
+    </array>
+</resources>
